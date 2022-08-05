@@ -1,0 +1,26 @@
+.image{
+    
+}
+.pos{
+    position: relative;
+}
+.upper-text{
+    align-items: center;
+    margin-top: 2rem;
+    left: 27rem;
+    position: absolute;
+    color: aliceblue;
+}
+.down-text{
+    position: absolute;
+    bottom: 50px;
+    margin-left: 27rem;
+    color: aliceblue;
+    
+}
+.form-box{
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+
+}
